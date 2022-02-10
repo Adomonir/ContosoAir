@@ -1,7 +1,6 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 [![Build Status](https://dev.azure.com/CEDemos/Contoso-Air/_apis/build/status/Adomonir.ContosoAir?branchName=master)](https://dev.azure.com/CEDemos/Contoso-Air/_build/latest?definitionId=20&branchName=master)
 
-# Edited By Adeola Omonira
 # Microsoft.Github CI Demo
 
 Demo website application for Contoso Air.  
